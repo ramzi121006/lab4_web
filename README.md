@@ -25,10 +25,8 @@ Matkul          : Pemograman Mobile
 **Penjelasan**
 
 ```
-- Membuat file lab4_box.html untuk menampilkan konsep Box Element dengan struktur HTML dasar.
-
-- Menambahkan tiga <div> berwarna menggunakan CSS dengan float:left agar kotak-kotak sejajar ke samping.
-
+Kotak biru dibuat dengan menambahkan <div class="div4"> agar muncul setelah tiga box sebelumnya.
+Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak sejajar dengan box lain yang di-float.
 ```
 
 # Gambar 3 
