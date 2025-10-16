@@ -10,8 +10,7 @@ Matkul          : Pemograman Mobile
 
 # Gambar 1
 
-![Uploading Screenshot 2025-10-14 210033.png…]()
- 
+
 
 # Gambar 2
 
