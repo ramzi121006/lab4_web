@@ -20,7 +20,7 @@ Matkul          : Pemograman Mobile
 
 # Gambar 2
 
-![foto]() 
+![foto](https://github.com/ramzi121006/lab4_web/blob/1603a14fd09fdff074f1521975f1f8bbf30ffcc1/Screenshot%202025-10-14%20210335.png) 
 
 **Penjelasan**
 
