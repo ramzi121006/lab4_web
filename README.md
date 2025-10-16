@@ -68,5 +68,10 @@ CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembu
 CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget supaya tampil rapi dan terpisah.
 ```
 
-##Gambar 8
- ![foto](
+## Gambar 8
+
+ ![foto](https://github.com/ramzi121006/lab4_web/blob/2f5315bb5b00b156eb53e89a6395638358e878fa/Screenshot%202025-10-15%20151813.png)
+
+## Gambar 9
+
+![foto](
