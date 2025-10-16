@@ -13,7 +13,7 @@ Matkul          : Pemograman Mobile
 
 # Gambar 2
 
-![foto](https://github.com/NadhiaShafira/Lab4Web/blob/6bafffe2fedde8ff1c29221ce4f646fd144c9f76/Gambar%202.jpg) 
+![foto]() 
 
 **Penjelasan**
 
