@@ -31,7 +31,7 @@ Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak se
 
 # Gambar 3 
 
-![foto](https://github.com/NadhiaShafira/Lab4Web/blob/68d50924ff8a0d69f57a1ed2281cae8676b711ce/Gambar%203.jpg) 
+![foto]() 
 
 **Penjelasan**
 
