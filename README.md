@@ -50,7 +50,7 @@ Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahka
 ```
 ## Gambar 6
 
-![foto](https://github.com/NadhiaShafira/Lab4Web/blob/14cd27421d1142fc0703b1cc2dbaeee758c22b3c/Gambar%206.jpg) 
+![foto]() 
 
 **Penjelasan**
 
