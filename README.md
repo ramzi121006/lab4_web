@@ -31,13 +31,12 @@ Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak se
 
 # Gambar 3 
 
-![foto]() 
+![foto](https://github.com/ramzi121006/lab4_web/blob/bec13ac881bcdda26be963948475937ff56c9698/Screenshot%202025-10-15%20104739.png) 
 
 **Penjelasan**
 
 ```
-Kotak biru dibuat dengan menambahkan <div class="div4"> agar muncul setelah tiga box sebelumnya.
-Properti clear:left digunakan supaya kotak biru turun ke baris baru dan tidak sejajar dengan box lain yang di-float.
+
 
 ```
 # Gambar 5
