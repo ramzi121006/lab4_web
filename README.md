@@ -11,6 +11,13 @@ Matkul          : Pemograman Mobile
 # Gambar 1
 ![foto](https://github.com/ramzi121006/lab4_web/blob/b99b5612eb9c257c1ac98f789e8deb7b564bc63a/Screenshot%202025-10-14%20210033.png) 
 
+**Penjelasan**
+
+```- Membuat file lab4_box.html untuk menampilkan konsep Box Element dengan struktur HTML dasar.
+
+- Menambahkan tiga <div> berwarna menggunakan CSS dengan float:left agar kotak-kotak sejajar ke samping.
+```
+
 # Gambar 2
 
 ![foto]() 
