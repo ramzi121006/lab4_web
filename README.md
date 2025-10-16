@@ -74,12 +74,27 @@ CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget su
 
  **Penjelasan**
 
- ```
+ ```Tampilan pada gambar menunjukkan hasil langkah membuat sidebar dan footer pada layout web.
+Sidebar dibuat dengan tag <aside> yang berisi dua widget box (Widget Header dan Widget Text) menggunakan CSS untuk memberi warna biru pada judul dan garis pembatas, sedangkan bagian bawah halaman ditutup dengan footer berwarna hitam yang menampilkan teks hak cipta “© 2021 - Universitas Pelita Bangsa.”
+```
 
 ## Gambar 9
 
 ![foto](https://github.com/ramzi121006/lab4_web/blob/794275954ed2948d5d16b7ab2b75722f8bdf1b42/Screenshot%202025-10-15%20152057.png)
 
+**Penjelasan**
+
+```Gambar tersebut menampilkan hasil langkah membuat tiga box fitur utama di bagian tengah halaman menggunakan tag <dif class= "box"> 
+masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda dengan judul serta tombol "view detail" yang di atur menggunakan CSS agar sejajar dan rapi.
+```
+
 ## Gambar 10
 
 ![foto](https://github.com/ramzi121006/lab4_web/blob/9c687065aaad3d865635931e08b60159b83828c8/Screenshot%202025-10-15%20152609.png)
+
+**Penjelasan**
+
+```Lalu bagian “main” diisi tiga box berbentuk lingkaran menggunakan CSS agar tampil sejajar di tengah.
+Setelah itu ditambahkan dua artikel dengan gambar 150x150 yang diatur posisi kiri dan kanan memakai float.
+Terakhir, ditambahkan sidebar dan footer sehingga halaman tampak lengkap seperti website sebenarnya.
+```
