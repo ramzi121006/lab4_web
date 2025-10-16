@@ -72,8 +72,14 @@ CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget su
 
  ![foto](https://github.com/ramzi121006/lab4_web/blob/2f5315bb5b00b156eb53e89a6395638358e878fa/Screenshot%202025-10-15%20151813.png)
 
+ **Penjelasan**
+
+ ```
+
 ## Gambar 9
 
 ![foto](https://github.com/ramzi121006/lab4_web/blob/794275954ed2948d5d16b7ab2b75722f8bdf1b42/Screenshot%202025-10-15%20152057.png)
 
 ## Gambar 10
+
+![foto](https://github.com/ramzi121006/lab4_web/blob/9c687065aaad3d865635931e08b60159b83828c8/Screenshot%202025-10-15%20152609.png)
