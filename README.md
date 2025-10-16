@@ -98,3 +98,21 @@ masing masing box berisi gambar bulat berwarna oranye, biru, dan hijau muda deng
 Setelah itu ditambahkan dua artikel dengan gambar 150x150 yang diatur posisi kiri dan kanan memakai float.
 Terakhir, ditambahkan sidebar dan footer sehingga halaman tampak lengkap seperti website sebenarnya.
 ```
+
+## jawaban dari Pertanyaan dan Tugas
+
+**1. About**
+
+![foto](https://github.com/ramzi121006/lab4_web/blob/4af68f99e856ed2d18f5aedcef56c94ef1441545/Screenshot%202025-10-15%20170502.png)
+
+**penjelasan**
+
+```Bagian kiri (main content) berisi teks “Tentang Saya” yang menjelaskan identitas, kegiatan, serta daftar portofolio berupa proyek atau karya yang sudah dibuat.
+Bagian kanan (sidebar) menampilkan kotak “Informasi Singkat” yang berisi nama, fakultas, dan program studi.
+CSS tetap memanfaatkan gaya dari layout utama agar desain halaman About terlihat seragam, dengan perbedaan hanya pada isi konten dan judul.
+Hasilnya, halaman ini menjadi profil sederhana yang memperkenalkan diri pengguna dalam tampilan web yang rapi dan profesional.
+```
+
+**2. Kontak**
+
+![foto](
