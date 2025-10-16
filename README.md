@@ -9,8 +9,7 @@ Kelas           : TI.24.A.5
 Matkul          : Pemograman Mobile 
 
 # Gambar 1
-
-
+![foto](https://github.com/ramzi121006/lab4_web/blob/b99b5612eb9c257c1ac98f789e8deb7b564bc63a/Screenshot%202025-10-14%20210033.png) 
 
 # Gambar 2
 
