@@ -57,3 +57,16 @@ Setiap link diberi efek hover dan active supaya menu berubah warna saat diarahka
 ```Bagian ini menambahkan elemen <section id="hero"> berisi judul “Hello World!” dan teks deskripsi sebagai banner utama.
 CSS diberi background abu-abu dan padding besar supaya tampil seperti area pembuka di halaman web.
 ```
+
+## Gambar 7
+
+![foto](https://github.com/ramzi121006/lab4_web/blob/5f0f81555d56505f4b0c47cf3a91bdd092fefc06/Screenshot%202025-10-15%20151644.png)
+
+**Penjelasan**
+
+```Bagian ini menambahkan elemen <aside> berisi kotak widget seperti daftar link dan teks tambahan di sisi kanan halaman.
+CSS digunakan untuk memberi border, warna header biru, dan jarak antar widget supaya tampil rapi dan terpisah.
+```
+
+##Gambar 8
+ ![foto](
